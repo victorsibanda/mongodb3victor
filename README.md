@@ -2,5 +2,5 @@
 
 TODO: Enter the cookbook description here.
 
-PORT 27017 not working,
-need to update test file.
+Mongo DB now installed and all test's are passing, There are no failures.
+Could be improved by using Supermarket and less strenuous testing methods. 
